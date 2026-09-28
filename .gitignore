@@ -1,0 +1,17 @@
+# Spring Boot
+**/target/
+
+# Angular
+**/node_modules/
+**/dist/
+
+# IntelliJ
+**/.idea/
+**/*.iml
+
+# VS Code
+**/.vscode/
+
+# Environment / secrets
+**/.env
+**/.env.*
